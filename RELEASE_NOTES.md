@@ -17,8 +17,10 @@ Unofficial Android 17 Generic System Image.
 
 ## Device compatibility
 
-Fully working on Nothing A009P / SuperContra.
-Compatibility with other devices depends on their vendor implementation.
+GSI for ARM64 devices supporting Project Treble with a System-as-Root (A/B-style) layout.
+
+Tested on Nothing A009P / SuperContra.
+Compatibility and hardware functionality may vary by device and vendor firmware.
 
 ## Download
 
