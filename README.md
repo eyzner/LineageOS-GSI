@@ -17,7 +17,7 @@ Unofficial Android 17 Generic System Image.
 
 ## Device compatibility
 
-Reported fully working by the maintainer on Nothing A009P / SuperContra.
+Fully working on Nothing A009P / SuperContra.
 Compatibility with other devices depends on their vendor implementation.
 
 ## Download
@@ -49,3 +49,19 @@ Back up your data before installing.
 Maintainer: Aizner / eyzner.
 
 This is a community build, not an official LineageOS release.
+
+
+## Screenshots
+
+<p>
+<img src="screenshots/about.png" width="250" alt="about">
+<img src="screenshots/settings.png" width="250" alt="settings">
+<img src="screenshots/treble.png" width="250" alt="treble">
+</p>
+
+<p>
+<img src="screenshots/battery.png" width="250" alt="battery">
+<img src="screenshots/display.png" width="250" alt="display">
+<img src="screenshots/apps.png" width="250" alt="apps">
+</p>
+

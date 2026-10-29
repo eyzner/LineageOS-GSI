@@ -17,7 +17,7 @@ Unofficial Android 17 Generic System Image.
 
 ## Device compatibility
 
-Reported fully working by the maintainer on Nothing A009P / SuperContra.
+Fully working on Nothing A009P / SuperContra.
 Compatibility with other devices depends on their vendor implementation.
 
 ## Download
